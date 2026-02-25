@@ -118,7 +118,7 @@ Use mouse wheel to zoom, click and drag to rotate view.
 
 ## License
 
-MIT License - See LICENSE file for details
+Creative Commons BY-BC-SA 4.0 Attribution-NonCommercial-ShareAlike 4.0 International - See LICENSE file for details
 
 ## Author
 
