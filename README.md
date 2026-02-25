@@ -77,8 +77,11 @@ An interactive 3D visualization of the **Leo Triplet** (M65, M66, NGC 3628), a f
 Clone the repository and run:
 
 git clone https://github.com/justino/leo-triplet-3d.git
+
 cd leo-triplet-3d
+
 pip install numpy matplotlib
+
 python leo_triplet_3d.py
 
 Use mouse wheel to zoom, click and drag to rotate view.
