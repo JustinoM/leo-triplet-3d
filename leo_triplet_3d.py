@@ -188,7 +188,7 @@ class GalaxyData:
     }
     
     DISTANCE = 10700  # kpc
-    DEGREE_TO_KPC = 187  # kpc per degree at this distance
+    DEGREE_TO_KPC = 0.017453293*DISTANCE   # kpc per degree at this distance
     
     @classmethod
     def get_positions_relative_to_ngc3628(cls) -> Dict[str, np.ndarray]:
