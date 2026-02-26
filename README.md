@@ -85,8 +85,8 @@ pip install numpy matplotlib
 python leo_triplet_3d.py
 
 Use mouse wheel to zoom, click and drag to rotate view.
-
-![Leo Triplet Visualization](https://github.com/JustinoM/leo-triplet-3d/blob/main/leo_triplet_3d.png?raw=true)
+![Sample Video](videos/leo_triplet_3d.mp4){width=500}
+<img src="https://github.com/JustinoM/leo-triplet-3d/blob/main/images/leo_triplet_3d.png" width="800" />
 
 ## Requirements
 
