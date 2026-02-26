@@ -1,7 +1,10 @@
 # Leo Triplet 3D Visualization
-
 An interactive 3D visualization of the **Leo Triplet** (M65, M66, NGC 3628), a famous group of interacting galaxies approximately 35 million light-years away [3].
 
+<table style="border: none; border-collapse: collapse;">
+<tr>
+    <td style="border: none;"><img src="https://github.com/JustinoM/leo-triplet-3d/blob/main/images/triplet.jpg" width="400" /></td><td style="border: none;">
+        
 ## Features
 
 - Astronomically-accurate positions based on RA/Dec and redshift data from the NASA/IPAC Extragalactic Database (NED) [1]
@@ -11,6 +14,11 @@ An interactive 3D visualization of the **Leo Triplet** (M65, M66, NGC 3628), a f
 - Rotatable 3D view to explore spatial relationships
 - Distance annotations showing separations between galaxies
 - Constant-size Earth marker for scale reference
+    </td>
+</tr>    
+
+
+</table>
 
 ## Data Sources
 
@@ -85,7 +93,6 @@ pip install numpy matplotlib
 python leo_triplet_3d.py
 
 Use mouse wheel to zoom, click and drag to rotate view.
-![Sample Video](videos/leo_triplet_3d.mp4){width=500}
 <img src="https://github.com/JustinoM/leo-triplet-3d/blob/main/images/leo_triplet_3d.png" width="800" />
 
 ## Requirements
